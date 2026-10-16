@@ -23,7 +23,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
           args: >
-            -Dsonar.organization=TU_ORGANIZACION
+            -Dsonar.organization=Daniers Solarte
             -Dsonar.projectKey=solartedaniers_Laboratorio_Sonar
 
           
