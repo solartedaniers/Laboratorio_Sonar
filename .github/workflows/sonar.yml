@@ -26,5 +26,5 @@ jobs:
             -Dsonar.organization=TU_ORGANIZACION
             -Dsonar.projectKey=solartedaniers_Laboratorio_Sonar
 
-            # Token
+            
 
